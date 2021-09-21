@@ -1,1 +1,3 @@
-console.log("Javascript works!")
+console.log("Javascript dsfsfs!")
+
+import './style.scss'
