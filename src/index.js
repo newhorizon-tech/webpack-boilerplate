@@ -1,3 +1,3 @@
-console.log("Javascript dsfsfs!")
-
 import './style.scss'
+
+console.log("Webpack works!")
